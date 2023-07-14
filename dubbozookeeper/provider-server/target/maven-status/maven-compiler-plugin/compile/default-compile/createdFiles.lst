@@ -1,0 +1,3 @@
+com\kuang\ProviderServerApplication.class
+com\kuang\service\TicketServiceImpl.class
+com\kuang\service\TicketService.class
