@@ -1,0 +1,3 @@
+com\kuang\config\SecurityConfig.class
+com\kuang\controller\RouterController.class
+com\kuang\Springboot06SecurityApplication.class
