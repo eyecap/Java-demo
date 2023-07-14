@@ -1,0 +1,8 @@
+com\kuang\mapper\UserMapper.class
+com\kuang\config\ShiroConfig.class
+com\kuang\config\UserRealm.class
+com\kuang\service\UserService.class
+com\kuang\pojo\User.class
+com\kuang\ShiroSpringbootApplication.class
+com\kuang\controller\MyController.class
+com\kuang\service\UserServiceImpl.class
