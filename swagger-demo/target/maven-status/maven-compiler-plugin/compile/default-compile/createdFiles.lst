@@ -1,0 +1,3 @@
+com\kuang\swaggerdemo\config\SwaggerConfig.class
+com\kuang\swaggerdemo\controller\HelloController.class
+com\kuang\swaggerdemo\SwaggerDemoApplication.class
